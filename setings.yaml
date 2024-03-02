@@ -1,0 +1,10 @@
+train:
+  dataset: /путь/к/данным/обучения/annotations.txt
+  epochs: 10
+  batch-size: 16
+test:
+  dataset: /путь/к/данным/тестирования/annotations.txt
+  weights: /путь/к/сохраненным/весам/yolov8-custom.pt
+  batch-size: 8
+yolov8:
+  img-size: 640
