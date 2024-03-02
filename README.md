@@ -25,7 +25,6 @@
 
     ```bash
     git clone https://github.com/your_username/face-emotion-recognition.git
-    cd face-emotion-recognition
     ```
 
 2. Установить зависимости:
